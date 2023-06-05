@@ -1,0 +1,25 @@
+.middletag{
+    background-color: #f0f2f5;
+    width: 100%;
+    height: 70%;
+    text-align: center;
+}
+.tag2{
+    font-family: Helvetica,Arial,sans-serif;
+    color:blue;
+    font-size: 50px;
+    padding-top: 20px;
+    margin-top: 50px;
+}
+.tag3{
+    background-color: white;
+    margin-left:600px;
+    margin-right: 600px;
+}
+.tag4{
+    font-size: 30px;
+}
+.tag6{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
